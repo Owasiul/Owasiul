@@ -32,6 +32,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Owasiul"><img src="https://github-readme-stats.vercel.app/api?username=Owasiul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Owasiul's GitHub stats" /></a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/https://github.com/Owasiul=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/https://github.com/Owasiul=jasongaylord&langs_count=5&theme=tokyonight)]()
 <br>
 ⭐️ From [devOwasi](https://github.com/Owasiul)
