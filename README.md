@@ -32,7 +32,7 @@
 
 <b>My GitHub Stats</b>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/https://github.com/Owasiul=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/https://github.com/Owasiul=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?Owasiul=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?Owasiul=jasongaylord&langs_count=5&theme=tokyonight)]()
 <br>
 ⭐️ From [devOwasi](https://github.com/Owasiul)
