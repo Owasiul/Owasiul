@@ -34,8 +34,6 @@
 <b>My GitHub Stats</b> <br> <br>
 ![Owasiul's Stats](https://github-readme-stats.vercel.app/api?username=Owasiul&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 <br> <br>
-![Owasiul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Owasiul&theme=vue-dark&hide_border=false)
-<br> <br>
 ![Owasiul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owasiul&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <br> <br>
 ⭐️ From [devOwasi](https://github.com/Owasiul)
