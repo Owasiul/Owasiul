@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | 
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | GitHub
 - 🖥 &nbsp; Illustrator | Photoshop 
 
 </br>
