@@ -1,39 +1,25 @@
 <h2> Hey there! I'm Owasi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
+<h3># 💫 About Me:</h3> 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; front-end web developer.
 - 🌱 &nbsp; Interested in Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | 
-- 🔧 &nbsp; Visual Studio code | GitHub
-- 🖥 &nbsp; Illustrator | Photoshop 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/owsiul.sani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/owasiulsane/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/super-sani-a9a512248/?trk=opento_sprofile_topcard) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26516525/super-sani) 
 
-</br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Owasiul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Owasiul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Owasiul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Owasiul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-&nbsp; <a href="[https://www.instagram.com/the_caffeine__addict/](https://www.instagram.com/owasiulsane/)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="[https://www.linkedin.com/in/souvik-guria-/](https://www.linkedin.com/in/super-sani-a9a512248/)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sanisuper0@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
-### Tech & Tools Preference
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-
-
-<b>My GitHub Stats</b> <br> <br>
-![Owasiul's Stats](https://github-readme-stats.vercel.app/api?username=Owasiul&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
-<br> <br>
-![Owasiul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owasiul&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-<br> <br>
-⭐️ From [devOwasi](https://github.com/Owasiul)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
