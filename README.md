@@ -1,12 +1,12 @@
 <h2> Hey there! I'm Owasi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-
-<h3># 💫 About Me:</h3> 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; front-end web developer.
-- 🌱 &nbsp; Interested in Artificial Intelligence .
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+<br><br>
+<h3># 💫 About Me:</h3> <br>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
+- 💼 &nbsp; front-end web developer.<br>
+- 🌱 &nbsp; Interested in Artificial Intelligence .<br>
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 
 
 ## 🌐 Socials:
