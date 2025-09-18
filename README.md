@@ -1,34 +1,26 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Owasiul Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-I'm **MD. Owasiul Islam**, a passionate web developer with a strong foundation in HTML, CSS, Tailwind, Bootstrap, and JavaScript. I love creating dynamic and responsive web applications that provide great user experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owasiul&label=Profile%20views&color=0e75b6&style=flat" alt="owasiul" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owasiul" alt="owasiul" /></a> </p>
 
-Based in **Dhaka, Bangladesh**, I am committed to enhancing my skills and knowledge in web development. I enjoy solving complex problems and delivering user-friendly solutions. I have a keen interest in modern web technologies and am always eager to learn more.
+- 🌱 I’m currently learning **React**
 
-## Skills & Technologies
+- 💬 Ask me about **problem solving**
 
-html,css,js,tailwind,bootstrap
+- 📫 How to reach me **sanisuper0@gmail.com**
 
-## Top Projects
+<h3 align="left">Connect with me: 01317491552</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/owsiul.sani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/owsiul.sani" height="30" width="40" /></a>
+</p>
 
-- [Assignment-5-Govt.-Helpline](https://github.com/Owasiul/Assignment-5-Govt.-Helpline): Emergency Numbers of Govt. Of Bangladesh | ⭐ 0 | Language: HTML
-- [Payooo_Mobile](https://github.com/Owasiul/Payooo_Mobile): Mobile app for digital payment like Bikash | ⭐ 0 | Language: HTML
-- [Flipkart_clone](https://github.com/Owasiul/Flipkart_clone): Clone of Flipkart e-commerce website | ⭐ 0 | Language: HTML
-- [Natures_Platter](https://github.com/Owasiul/Natures_Platter): E-commerce website made with Tailwind CSS | ⭐ 0 | Language: HTML
-- [MyPortfolio.github.io](https://github.com/Owasiul/MyPortfolio.github.io): Portfolio created with Bootstrap and raw CSS | ⭐ 0 | Language: HTML
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Owasiul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Owasiul&theme=dark&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Owasiul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owasiul&show_icons=true&locale=en&layout=compact" alt="owasiul" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owasiul&show_icons=true&locale=en" alt="owasiul" /></p>
 
-## Recent Activity
-
-- Pushed updates to [Assignment-5-Govt.-Helpline](https://github.com/Owasiul/Assignment-5-Govt.-Helpline) fixing HTML for medium devices.
-- Added new features to [Payooo_Mobile](https://github.com/Owasiul/Payooo_Mobile).
-- Updated README in [Flipkart_clone](https://github.com/Owasiul/Flipkart_clone).
-- Made several enhancements in [Natures_Platter](https://github.com/Owasiul/Natures_Platter).
-- Worked on improving responsiveness in my projects.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owasiul&" alt="owasiul" /></p>
