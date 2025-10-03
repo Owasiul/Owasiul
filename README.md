@@ -1,21 +1,64 @@
-<h1 align="center">Hi 👋, I'm Owasiul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owasiul" alt="owasiul" /></a> </p>
+# 👋 Hi, I'm Owasiul Islam
 
-- 🌱 I’m currently learning **React**
+I'm a passionate frontend developer from **Bangladesh**, currently diving deep into **React** and building real-world projects that solve real problems.
 
-- 💬 Ask me about **problem solving**
+---
 
-- 📫 How to reach me **sanisuper0@gmail.com**
+## 🚀 What I'm Working On
 
-<h3 align="left">Connect with me: 01317491552</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/owsiul.sani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/owsiul.sani" height="30" width="40" /></a>
-</p>
+- 🌐 Building responsive UIs with **Tailwind CSS**, **Bootstrap**, and **raw CSS**
+- ⚛️ Learning **React** and exploring component-based architecture
+- 🧠 Practicing **DOM manipulation**, **event handling**, and **state management**
+- 📦 Deploying projects to **Netlify** and documenting the process for beginners
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 📚 My Featured Projects
 
+| Project Name | Description |
+|--------------|-------------|
+| [Flipkart Clone](https://github.com/Owasiul/Flipkart_clone) | E-commerce site clone using HTML |
+| [My Portfolio](https://github.com/Owasiul/MyPortfolio.github.io) | Personal portfolio built with Bootstrap |
+| [Natures Platter](https://github.com/Owasiul/Natures_Platter) | E-commerce site styled with Tailwind CSS |
+| [Nike Clone](https://github.com/Owasiul/Nike-clone.github.io) | Simple HTML clone of Nike landing page |
+| [Zubuyer Kaolin Clone](https://github.com/Owasiul/Zubuyer_Kaolin_web_clone.github.io) | Business site clone using HTML |
+| [Payooo Mobile](https://github.com/Owasiul/Payooo_Mobile) | Mobile payment app concept like Bikash |
 
+---
+
+## 📊 GitHub Stats
+
+![Owasiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Owasiul&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owasiul&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Languages & Tools
+
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- React (learning)
+- Netlify (deployment)
+- Git & GitHub
+
+---
+
+## 💬 Ask Me About
+
+- How to get started with frontend development
+- Writing beginner-friendly documentation
+- Troubleshooting DOM and UI logic
+- Deploying projects and sharing them with the world
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: sanisuper0@gmail.com
+- 📱 Phone: 01317491552
+- 🌐 GitHub: [github.com/Owasiul](https://github.com/Owasiul)
+
+---
+
+Thanks for stopping by! Let’s build something awesome together 💻✨
